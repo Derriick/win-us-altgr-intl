@@ -1,4 +1,4 @@
-# Keyboard layout for Windows - English US (intl., with AltGr dead keys)
+# Keyboard layout for Windows - English (intl., with AltGr dead keys)
 
 The layout called United States-International, included by default in Windows, allows to write many non-ASCII characters via a keyboard with a US QWERTY layout. It is very useful for many languages based on the Latin script.
 
